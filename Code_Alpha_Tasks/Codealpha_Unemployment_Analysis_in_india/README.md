@@ -63,14 +63,6 @@ Minimum:
 - seaborn
 - jupyterlab / notebook (if running locally)
 
-You can create a `requirements.txt` containing:
-```
-pandas
-numpy
-matplotlib
-seaborn
-jupyterlab
-```
 
 ## Data
 - Source: CSV named `Unemployment in India.csv` (included in the repo or to be placed in working directory).
